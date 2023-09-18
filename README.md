@@ -25,9 +25,10 @@ Esse projeto foi desenvolvido durante o NLW Spacetime da Rocketseat com as segui
 - CSS
 - Git e Github
 - Figma
-- Node
+- NodeJs
 - JavaScript
-- IA
+- Whisper IA
+- Bard IA
 
 ## 💻 Projeto
 
@@ -37,7 +38,7 @@ Esse projeto foi desenvolvido durante o NLW Spacetime da Rocketseat com as segui
       
 <br/>
 
-- [Visite o projeto online](https://iaraMarques.github.io/Nlw-Spacetime)
+- [Visite o projeto online](https://nlw-ia-iaramarques.vercel.app/)
 
 ## 🔖 Layout
 
